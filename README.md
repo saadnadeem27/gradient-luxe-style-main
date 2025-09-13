@@ -1,6 +1,6 @@
 # Élégance - Luxury Fashion Website
 
-![Élégance Fashion](https://lovable.dev/opengraph-image-p98pqg.png)
+![Élégance Fashion]
 
 A sophisticated luxury fashion e-commerce website showcasing timeless elegance and modern minimalist design. Built as a portfolio project demonstrating modern web development skills and design principles.
 
@@ -115,11 +115,11 @@ src/
 └── styles/             # Global styles and config
 ```
 
-## 🌐 Live Demo
+<!-- ## 🌐 Live Demo
 
-**Production URL**: [View Live Site](https://lovable.dev/projects/2a9b67ed-e449-42ed-a405-053ee07f7990)
+**Production URL**: [View Live Site](your link) -->
 
-## 📧 Contact
+<!-- ## 📧 Contact
 
 For questions about this project or collaboration opportunities:
 
@@ -129,7 +129,7 @@ For questions about this project or collaboration opportunities:
 
 ## 📄 License
 
-This project is created as a portfolio demonstration. All rights reserved.
+This project is created as a portfolio demonstration. All rights reserved. -->
 
 ---
 
