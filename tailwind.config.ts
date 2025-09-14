@@ -65,6 +65,9 @@ export default {
           bronze: "hsl(var(--luxury-bronze))",
           cream: "hsl(var(--luxury-cream))",
           midnight: "hsl(var(--luxury-midnight))",
+          emerald: "hsl(var(--luxury-emerald))",
+          coral: "hsl(var(--luxury-coral))",
+          sapphire: "hsl(var(--luxury-sapphire))",
         },
       },
       borderRadius: {
@@ -79,6 +82,9 @@ export default {
         "gradient-dark": "var(--gradient-dark)",
         "gradient-premium": "var(--gradient-premium)",
         "gradient-glass": "var(--gradient-glass)",
+        "gradient-modern": "var(--gradient-modern)",
+        "gradient-accent": "var(--gradient-accent)",
+        "gradient-coral": "var(--gradient-coral)",
       },
       keyframes: {
         "accordion-down": {

@@ -5,20 +5,25 @@ import { cva, type VariantProps } from "class-variance-authority";
 import { cn } from "@/lib/utils";
 
 const buttonVariants = cva(
-  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0",
+  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-all duration-300 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0",
   {
     variants: {
       variant: {
-        default: "bg-primary text-primary-foreground hover:bg-primary/90",
+        default: "bg-primary text-primary-foreground hover:bg-primary/90 hover:shadow-lg hover:scale-105",
         destructive: "bg-destructive text-destructive-foreground hover:bg-destructive/90",
-        outline: "border border-input bg-background hover:bg-accent hover:text-accent-foreground",
+        outline: "border border-input bg-background hover:bg-accent hover:text-accent-foreground hover:border-primary",
         secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80",
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
-        luxury: "bg-gradient-luxury text-luxury-midnight font-semibold hover:shadow-2xl hover:shadow-luxury-gold/20 transition-all duration-500 hover:scale-105 border border-luxury-gold/20",
+        luxury: "bg-gradient-luxury text-white font-semibold hover:shadow-2xl hover:shadow-primary/20 transition-all duration-500 hover:scale-105",
         premium: "bg-luxury-midnight text-luxury-cream hover:bg-luxury-charcoal font-semibold tracking-wide shadow-lg hover:shadow-xl transition-all duration-300",
         elegant: "border-2 border-luxury-gold text-luxury-gold hover:bg-luxury-gold hover:text-luxury-midnight transition-all duration-500 font-medium backdrop-blur-sm",
         glass: "bg-gradient-glass backdrop-blur-md border border-luxury-cream/20 text-luxury-charcoal hover:bg-luxury-cream/20 transition-all duration-300",
+        modern: "bg-gradient-modern text-white font-semibold hover:shadow-xl hover:scale-105 transition-all duration-300",
+        accent: "bg-gradient-accent text-white hover:shadow-lg hover:scale-105 transition-all duration-300",
+        coral: "bg-gradient-coral text-white hover:shadow-lg hover:scale-105 transition-all duration-300",
+        sapphire: "bg-luxury-sapphire text-white hover:bg-luxury-sapphire/90 hover:shadow-lg hover:scale-105",
+        emerald: "bg-luxury-emerald text-white hover:bg-luxury-emerald/90 hover:shadow-lg hover:scale-105",
       },
       size: {
         default: "h-10 px-4 py-2",

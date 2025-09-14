@@ -1,34 +1,34 @@
 # Élégance - Luxury Fashion Website
 
-![Élégance Fashion]
+![Élégance Fashion](https://lovable.dev/opengraph-image-p98pqg.png)
 
-A sophisticated luxury fashion e-commerce website showcasing timeless elegance and modern minimalist design. Built as a portfolio project demonstrating modern web development skills and design principles.
+A sophisticated luxury fashion e-commerce website featuring a modern contemporary design with vibrant gradients and sleek aesthetics. Built as a portfolio project demonstrating cutting-edge web development skills and contemporary design principles.
 
 ## 📸 Screenshots
 
 ### Homepage - Hero Section
 ![Homepage Hero](./public/screenshots/homepage-hero.jpg)
-*Elegant hero section showcasing timeless luxury fashion with sophisticated branding and call-to-action elements*
+*Modern hero section with vibrant gradient backgrounds, contemporary typography, and sophisticated call-to-action elements*
 
 ### Collections Page
 ![Collections Page](./public/screenshots/collections-page.jpg)
-*Curated fashion collections displayed in a clean, organized grid layout with luxury aesthetics*
+*Curated fashion collections with modern card layouts, gradient accents, and contemporary visual hierarchy*
 
 ### Women's Section
 ![Women's Section](./public/screenshots/women-section.jpg)
-*Dedicated women's fashion showcase with elegant models and sophisticated product presentation*
+*Women's fashion showcase featuring contemporary design elements with gradient overlays and modern interaction patterns*
 
 ### About Page
 ![About Page](./public/screenshots/about-page.jpg)
-*Brand heritage story with professional team portraits and company history in luxury setting*
+*Brand heritage story with modern design treatment, contemporary color schemes, and professional presentation*
 
 ## 🌟 Features
 
 - **Responsive Design**: Fully responsive across all devices with mobile-first approach
-- **Modern UI/UX**: Clean, minimalist design with luxury aesthetics
-- **Performance Optimized**: Fast loading with lazy loading and optimized images
-- **SEO Friendly**: Proper meta tags, semantic HTML, and structured data
-- **Smooth Animations**: Subtle animations and transitions for enhanced user experience
+- **Modern Design**: Contemporary UI with vibrant gradients and sleek aesthetics
+- **Advanced Animations**: Smooth micro-interactions and sophisticated hover effects
+- **Gradient Themes**: Multiple gradient combinations for visual appeal
+- **Enhanced Typography**: Modern font treatments with gradient text effects
 - **Type Safety**: Built with TypeScript for robust development
 
 ## 📱 Pages & Sections
@@ -44,20 +44,23 @@ A sophisticated luxury fashion e-commerce website showcasing timeless elegance a
 
 - **Frontend Framework**: React 18 with TypeScript
 - **Build Tool**: Vite for fast development and optimized builds
-- **Styling**: Tailwind CSS with custom design tokens
-- **UI Components**: shadcn/ui component library
+- **Styling**: Tailwind CSS with advanced custom design tokens and gradients
+- **UI Components**: shadcn/ui component library with custom variants
 - **Routing**: React Router v6 for client-side navigation
 - **State Management**: TanStack Query for server state
 - **Icons**: Lucide React for consistent iconography
-- **Animations**: Tailwind CSS animations with custom transitions
+- **Animations**: Advanced CSS animations with Tailwind and custom transitions
+- **Design System**: Comprehensive color palette with HSL variables and gradients
 
 ## 🎨 Design System
 
-- **Color Palette**: Luxury cream, bronze, and gold tones
-- **Typography**: Modern, clean fonts with proper hierarchy
-- **Components**: Reusable UI components with variants
-- **Responsive**: Mobile-first approach with breakpoint consistency
-- **Accessibility**: WCAG compliant design patterns
+- **Color Palette**: Modern purple and cyan gradients with contemporary accent colors
+- **Gradient Themes**: Multiple gradient combinations (modern, luxury, accent, coral)
+- **Typography**: Contemporary fonts with gradient text effects and proper hierarchy
+- **Components**: Advanced UI components with multiple variants and hover states
+- **Responsive**: Mobile-first approach with consistent breakpoint design
+- **Accessibility**: WCAG compliant with enhanced contrast ratios
+- **Micro-interactions**: Sophisticated animations with scale and shadow effects
 
 ## 🚀 Getting Started
 
@@ -115,11 +118,11 @@ src/
 └── styles/             # Global styles and config
 ```
 
-<!-- ## 🌐 Live Demo
+## 🌐 Live Demo
 
-**Production URL**: [View Live Site](your link) -->
+**Production URL**: [View Live Site](https://lovable.dev/projects/2a9b67ed-e449-42ed-a405-053ee07f7990)
 
-<!-- ## 📧 Contact
+## 📧 Contact
 
 For questions about this project or collaboration opportunities:
 
@@ -129,8 +132,8 @@ For questions about this project or collaboration opportunities:
 
 ## 📄 License
 
-This project is created as a portfolio demonstration. All rights reserved. -->
+This project is created as a portfolio demonstration. All rights reserved.
 
 ---
 
-Built with ❤️ using modern web technologies
+Built with ❤️ using modern web technologies and contemporary design principles
