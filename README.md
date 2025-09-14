@@ -1,26 +1,11 @@
 # Élégance - Luxury Fashion Website
 
-![Élégance Fashion](https://lovable.dev/opengraph-image-p98pqg.png)
+
 
 A sophisticated luxury fashion e-commerce website featuring a modern contemporary design with vibrant gradients and sleek aesthetics. Built as a portfolio project demonstrating cutting-edge web development skills and contemporary design principles.
 
-## 📸 Screenshots
-
-### Homepage - Hero Section
-![Homepage Hero](./public/screenshots/homepage-hero.jpg)
-*Modern hero section with vibrant gradient backgrounds, contemporary typography, and sophisticated call-to-action elements*
-
-### Collections Page
-![Collections Page](./public/screenshots/collections-page.jpg)
-*Curated fashion collections with modern card layouts, gradient accents, and contemporary visual hierarchy*
-
-### Women's Section
-![Women's Section](./public/screenshots/women-section.jpg)
-*Women's fashion showcase featuring contemporary design elements with gradient overlays and modern interaction patterns*
-
-### About Page
-![About Page](./public/screenshots/about-page.jpg)
-*Brand heritage story with modern design treatment, contemporary color schemes, and professional presentation*
+<!-- Portfolio preview image: place your screenshot at `public/gradient-luxe-style-portfolio.png` -->
+![Portfolio Preview](public/gradient-luxe-style-portfolio.png)
 
 ## 🌟 Features
 
@@ -118,17 +103,17 @@ src/
 └── styles/             # Global styles and config
 ```
 
-## 🌐 Live Demo
+<!-- ## 🌐 Live Demo
 
-**Production URL**: [View Live Site](https://lovable.dev/projects/2a9b67ed-e449-42ed-a405-053ee07f7990)
+**Production URL**: [View Live Site](link here) -->
 
-## 📧 Contact
+<!-- ## 📧 Contact
 
 For questions about this project or collaboration opportunities:
 
 - **Portfolio**: [Your Portfolio URL]
 - **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
+- **Email**: [Your Email] -->
 
 ## 📄 License
 
